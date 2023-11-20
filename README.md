@@ -16,7 +16,20 @@ This is a repository for data visualization created for the CANIS Hackathon.
 
 ```zsh
 > git clone https://github.com/moonchanyong/yummy-data.git
-> cd yummy-data/front
+> cd yummy-data
+```
+
+### Jupyter Notebook
+
+```zsh
+> pip install -r requirements.txt # recommand to do it in venv
+> code . # open with vscode or other editors
+```
+
+### Front Dashboard
+
+```zsh
+> cd front
 > yarn
 > yarn start
 ```
