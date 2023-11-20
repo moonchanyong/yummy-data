@@ -4,6 +4,9 @@ import { lazy } from 'react';
 import MainLayout from 'layout/MainLayout';
 import Loadable from 'ui-component/Loadable';
 
+// analysis routing
+const GeneralAnalysis = Loadable(lazy(() => import('views/analysis/general')));
+
 // dashboard routing
 const DashboardDefault = Loadable(lazy(() => import('views/dashboard/Default')));
 
@@ -25,7 +28,16 @@ const MainRoutes = {
   children: [
     {
       path: '/',
-      element: <DashboardDefault />
+      element: <GeneralAnalysis />
+    },
+    {
+      path: 'analysis',
+      children: [
+        {
+          path: 'general',
+          element: <GeneralAnalysis />
+        }
+      ],
     },
     {
       path: 'dashboard',
