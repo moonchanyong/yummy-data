@@ -23,11 +23,11 @@ const SamplePage = Loadable(lazy(() => import('views/sample-page')));
 // ==============================|| MAIN ROUTING ||============================== //
 
 const MainRoutes = {
-  path: '/',
+  path: '/yummy-data',
   element: <MainLayout />,
   children: [
     {
-      path: '/',
+      path: '/yummy-data',
       element: <GeneralAnalysis />
     },
     {
