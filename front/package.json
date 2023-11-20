@@ -2,7 +2,7 @@
   "name": "berry-free-material-react-cra",
   "version": "3.3.2",
   "private": true,
-  "homepage": "https://berrydashboard.io/free",
+  "homepage": "https://moonchanyong.github.io/yummy-data/",
   "dependencies": {
     "@billboard.js/react": "^1.1.0",
     "@emotion/cache": "^11.9.3",
