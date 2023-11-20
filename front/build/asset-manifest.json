@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/free/static/css/main.df3b6d63.css",
+    "main.js": "/free/static/js/main.7932ab25.js",
+    "static/css/702.66bba3b8.chunk.css": "/free/static/css/702.66bba3b8.chunk.css",
+    "static/js/702.7a5673c8.chunk.js": "/free/static/js/702.7a5673c8.chunk.js",
+    "static/js/542.657b1531.chunk.js": "/free/static/js/542.657b1531.chunk.js",
+    "static/js/565.5bcbdee3.chunk.js": "/free/static/js/565.5bcbdee3.chunk.js",
+    "static/js/603.728408d9.chunk.js": "/free/static/js/603.728408d9.chunk.js",
+    "static/js/801.179b9a5f.chunk.js": "/free/static/js/801.179b9a5f.chunk.js",
+    "static/js/573.1dc633af.chunk.js": "/free/static/js/573.1dc633af.chunk.js",
+    "static/js/271.1d10b20c.chunk.js": "/free/static/js/271.1d10b20c.chunk.js",
+    "static/js/971.677728e4.chunk.js": "/free/static/js/971.677728e4.chunk.js",
+    "static/js/275.95774755.chunk.js": "/free/static/js/275.95774755.chunk.js",
+    "static/js/508.00cf0ba3.chunk.js": "/free/static/js/508.00cf0ba3.chunk.js",
+    "static/js/549.02770851.chunk.js": "/free/static/js/549.02770851.chunk.js",
+    "static/media/logo.png": "/free/static/media/logo.dd063ce828726617372f.png",
+    "static/media/user-round.svg": "/free/static/media/user-round.13b5a31bebd2cc6016d6db2cac8e92d1.svg",
+    "static/media/progress.png": "/free/static/media/progress.9654176f3e2d56870a01.png",
+    "static/media/2019_08_01_2022_04_01_google_trend.png": "/free/static/media/2019_08_01_2022_04_01_google_trend.cc26ea12c89ba3f3f1d7.png",
+    "index.html": "/free/index.html",
+    "static/media/earning.svg": "/free/static/media/earning.b019e86a7ee117bd6bb2e8cab90c0db5.svg"
+  },
+  "entrypoints": [
+    "static/css/main.df3b6d63.css",
+    "static/js/main.7932ab25.js"
+  ]
+}
